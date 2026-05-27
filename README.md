@@ -40,24 +40,42 @@ AIR Lab이 그동안 수행해 온 정부 및 유관 기관의 주요 연구 과
 * **Development of Clinical Document Tracker / Topic Detection in Encyclopedia Domain** (2004.09 - 2005.08)
 ---
 
-## 📁 Key Repositories
-> 📝 *Note: Many of our active research projects are kept **Private** prior to paper publication (e.g., JICCE, ICML Workshops). They will be transitioned to Public alongside camera-ready codebases.*
-
-* [Project Name] - Brief description of the project (Link)
-* [Lab Tutorials] - Internal guidelines for lab server setup (Ubuntu, CUDA, RTX 5090)
-
----
-
 ## 👥 Members
-* **Director:** Prof. Bo-Yeong Kang (강보영 교수님)
-* **Graduate Researchers & Lab Managers:** 
-  * Young-Min Kim (김영민) - `Lab Manager`
-  * [Member Name]
-  * [Member Name]
+
+### 🎓 Director
+* **Prof. Bo-Yeong Kang (강보영 교수님)** 
+  * Founder & Dean of Robot & Smart System Engineering Division, KNU
+  * Ph.D. in Computer Engineering | Extensive research background in AI implementation for Social/Intelligent Robots, Natural Language Processing, and Healthcare Informatics.
+
+### 🧑‍💻 Graduate Researchers
+* **Combined M.S./Ph.D. Course**
+  * **Young-Min Kim (김영민)** - `Lab Manager` (https://github.com/ymk2001)
+* **Master's Course**
+  * **Ung-Hee Tae (태웅희)** 
+  * **Ruchita Gangula**
+  * **Jae-Hyun Park (박재현)**
 
 ---
 
+## 🎓 Alumni
+
+* **Hae-In Jeon (전해인)** (PhD Graduate) ➡️ KNU Post.doc
+* **Hammed Olatunde Obasekore** (PhD Graduate) ➡️ 데이터디자인엔지니어링
+* **Jeong-Hun Kang (강정훈)** (Master Graduate) ➡️ 가전각색
+* **Ye-Won Kim (김예원)** (PhD Coursework Completed) ➡️ 대구기계부품연구원
+* **Ji-Han Kim (김지한)** (Master Coursework Completed) ➡️ 한국로봇산업진흥원
+* **Seong-Jae Ko (고성재)** (Master Coursework Completed) ➡️ 한국교통안전공단
+* **Hyun-Soon Lee (이현순)** (PhD Graduate) ➡️ 한국폴리텍대학교 성남캠퍼스 교수
+* **Jun-Sang Yu (유준상)** (Master Graduate) ➡️ 국립대구과학관 연구원 (DNSM)
+* **Zhang Ziyi** (Master Graduate) ➡️ 현대모비스 중국지사
+* **Naveen S K** (PhD Graduate) ➡️ Naveenam Tech Private Limited, CEO (INDIA)
+* **Miao Xu** (PhD Graduate)
+* **Dae-Check Kwon (권대척)** (Master Graduate) ➡️ 농산업ICT융합연구소 소장
+* **Sang-Kyu Bahn (반상규)** (Master Graduate) ➡️ 한국뇌연구원
+* **Jae-Joon Lee (이재준)** (Post.Doc) ➡️ 숙명여자대학교 교수
+
+---
 ## 📬 Contact & Location
 * **Location:** Kyungpook National University, Daegu, Republic of Korea
-* **Website:** [Insert Lab Website URL if available]
+* **Website:** [https://air.knu.ac.kr]
 * **Email:** [Insert Contact Email]
