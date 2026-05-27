@@ -8,7 +8,7 @@ Welcome to the official GitHub organization of the **AIR Lab** at Kyungpook Nati
 ## 🚀 Active Research Project
 현재 연구실에서 주력으로 진행 중인 한국연구재단(NRF) 핵심연구과제입니다.
 
-* **[🔥 Main Project] [Calibrating Physics Education with Misconception-Tuned Lightweight LLM](https://github.com/knu-air-lab/여기_링크_주소)**
+* **[🔥 Main Project] [Calibrating Physics Education with Misconception-Tuned Lightweight LLM](https://github.com/knu-air-lab/Physics-LLM)**
   * **과제명:** Misconception-Tuned Lightweight LLM 기반 물리 교육 캘리브레이션 시스템 개발
   * **지원 기관:** 한국연구재단(NRF) 핵심연구과제
   * **연구 기간:** 2026.03 - 2030.04
@@ -17,7 +17,7 @@ Welcome to the official GitHub organization of the **AIR Lab** at Kyungpook Nati
 ---
 
 ## 📚 Past Research & Projects
-AIR Lab이 그동안 수행해 온 정부 및 유관 기관의 주요 연구 과제와 기술 개발 성과입니다.
+AIR Lab이 그동안 수행해 온 주요 연구 과제와 기술 개발 성과입니다.
 
 * **분산된 딥 강화학습을 이용한 진화형 협동 로봇 개발** (과기정통부 중견과제, 2019.03 - 2022.02)
   * *Evolutionary Cooperative Robot Development Using Distributed Deep Reinforcement Learning*
@@ -49,7 +49,7 @@ AIR Lab이 그동안 수행해 온 정부 및 유관 기관의 주요 연구 과
 
 ### 🧑‍💻 Graduate Researchers
 * **Combined M.S./Ph.D. Course**
-  * **Young-Min Kim (김영민)** - `Lab Manager` (https://github.com/ymk2001)
+  * **[Young-Min Kim (김영민)](https://github.com/ymk2001)** - `Lab Manager`
 * **Master's Course**
   * **Ung-Hee Tae (태웅희)** 
   * **Ruchita Gangula**
